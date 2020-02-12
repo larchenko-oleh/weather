@@ -1,9 +1,6 @@
 import json
-
 import requests
-
 import argparse
-
 import datetime
 
 api_key = '5e57c5a0225dc6b1cfb20be3a829b0bf'
